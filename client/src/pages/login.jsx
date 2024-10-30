@@ -39,7 +39,7 @@ function Login() {
           }
         });
 
-        router.push("/onboarding");
+        router.push("/Onboarding");
       } else {
         console.log("User already exists"); // Indica que el usuario ya existe
       }
